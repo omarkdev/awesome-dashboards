@@ -18,4 +18,3 @@ Hierapolis | https://goo.gl/THaAQ5
 Flat Admin | https://goo.gl/b758bi
 Light Bootstrap Dashboard | http://goo.gl/JGU86v
 Director Admin | http://goo.gl/9axGkI
-UBold | http://goo.gl/M6dEaj
