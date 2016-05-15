@@ -11,6 +11,7 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 Name | Website
 ------------ | -------
 AdminLTE | https://goo.gl/OObvA0
+BlurAdmin | [akveo/blur-admin](https://github.com/akveo/blur-admin)
 DashGum | http://goo.gl/k5l29O
 Director Admin | http://goo.gl/9axGkI
 Flat Admin | https://goo.gl/b758bi
@@ -19,3 +20,5 @@ Hierapolis | https://goo.gl/THaAQ5
 Light Bootstrap Dashboard | http://goo.gl/JGU86v
 Material Design Lite Google | https://goo.gl/8SX56v
 Metis | https://goo.gl/IitZsO
+Minimum | [akivaron/miminium](https://github.com/akivaron/miminium)
+rdash-angular | [rdash/rdash-angular](https://github.com/rdash/rdash-angular)
