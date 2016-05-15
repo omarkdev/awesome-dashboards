@@ -8,17 +8,17 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 ###Free dashboards list for you to use in your projects
 
-Name | Website
+Name | Links
 ------------ | -------
-AdminLTE | https://goo.gl/OObvA0
-BlurAdmin | https://goo.gl/DUzAae
-DashGum | http://goo.gl/k5l29O
-Director Admin | http://goo.gl/9axGkI
-Flat Admin | https://goo.gl/b758bi
-Gentelella | https://goo.gl/NSAZwH
-Hierapolis | https://goo.gl/THaAQ5
-Light Bootstrap Dashboard | http://goo.gl/JGU86v
-Material Design Lite Google | https://goo.gl/8SX56v
-Metis | https://goo.gl/IitZsO
-Minimum | https://goo.gl/Q4nGLZ
-Rdash-angular | https://goo.gl/J7G227
+AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0)
+BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae)
+DashGum | [blacktie.co - Dashgum free Dashboard](http://goo.gl/k5l29O)
+Director Admin | [Web-Apps - Director Admin Free](http://goo.gl/9axGkI)
+Flat Admin | [tui2tone/flat-admin-bootstrap-templates](https://goo.gl/b758bi)
+Gentelella | [puikinsh/gentelella](https://goo.gl/NSAZwH)
+Hierapolis | [lab2023/hierapolis](https://goo.gl/THaAQ5)
+Light Bootstrap Dashboard |[Light Bootstrap Dashboard](http://goo.gl/JGU86v)
+Material Design Lite Google | [google/material-design-lite](https://goo.gl/8SX56v)
+Metis | [puikinsh/Bootstrap-Admin-Template](https://goo.gl/IitZsO)
+Minimum | [akivaron/miminium](https://goo.gl/Q4nGLZ)
+Rdash-angular | [rdash/rdash-angular](https://goo.gl/J7G227)
