@@ -1,4 +1,4 @@
-##Dashboards free to use
+##Awesome dashboards
 
 A dashboards list free for use
 
