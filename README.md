@@ -1,4 +1,4 @@
-##Awesome dashboards
+## Awesome dashboards
 
 A dashboards list free for use
 
@@ -6,7 +6,7 @@ Please send a pull request if you have any additions or changes. Pull requests w
 
 Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
-###Free dashboards list for you to use in your projects
+### Free dashboards list for you to use in your projects
 
 Name | Links
 ------------ | -------
