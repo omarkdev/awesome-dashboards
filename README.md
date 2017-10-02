@@ -12,6 +12,7 @@ Name | Links | Tags
 ------------ | ------- | -------
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://goo.gl/tDT2H1) | _bootstrap_ _bootstrap3_ _material-design_
 AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0) |
+Adminify | [wxs77577/adminify](https://goo.gl/mA57sD) | _vuejs_ _vuetify_ _material-design_
 BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae) |
 CoPilot | [misterGF/CoPilot](https://goo.gl/iSVGqk) |
 DashGum | [blacktie.co - Dashgum free Dashboard](http://goo.gl/k5l29O) |
