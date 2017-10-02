@@ -10,7 +10,7 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 Name | Links | Tags
 ------------ | ------- | -------
-AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://goo.gl/tDT2H1) |
+AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://goo.gl/tDT2H1) | _bootstrap_ _bootstrap3_ _material-design_
 AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0) |
 BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae) |
 CoPilot | [misterGF/CoPilot](https://goo.gl/iSVGqk) |
