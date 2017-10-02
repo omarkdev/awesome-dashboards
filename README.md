@@ -13,6 +13,7 @@ Name | Links
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://goo.gl/tDT2H1)
 AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0)
 BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae)
+CoPilot | [misterGF/CoPilot](https://goo.gl/iSVGqk)
 DashGum | [blacktie.co - Dashgum free Dashboard](http://goo.gl/k5l29O)
 Director Admin | [Web-Apps - Director Admin Free](http://goo.gl/9axGkI)
 Flat Admin | [tui2tone/flat-admin-bootstrap-templates](https://goo.gl/b758bi)
