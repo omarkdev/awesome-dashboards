@@ -29,3 +29,4 @@ Minimum | [akivaron/miminium](https://goo.gl/Q4nGLZ)|
 NG2-Admin Angular | [akveo/ng2-admin](https://goo.gl/m8lc3p) |
 Rdash-angular | [rdash/rdash-angular](https://goo.gl/J7G227) |
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://goo.gl/1SOVc7) |
+Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
