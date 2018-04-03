@@ -25,8 +25,9 @@ Light Bootstrap Dashboard |[Light Bootstrap Dashboard](http://goo.gl/JGU86v) |
 Material Design Lite Google | [google/material-design-lite](https://goo.gl/8SX56v) |
 Matrix Admin | [Matrix Admin - is a responsive admin template](https://goo.gl/05H6el) |
 Metis | [puikinsh/Bootstrap-Admin-Template](https://goo.gl/IitZsO) |
-Minimum | [akivaron/miminium](https://goo.gl/Q4nGLZ)| 
+Minimum | [akivaron/miminium](https://goo.gl/Q4nGLZ)|
 NG2-Admin Angular | [akveo/ng2-admin](https://goo.gl/m8lc3p) |
 Rdash-angular | [rdash/rdash-angular](https://goo.gl/J7G227) |
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://goo.gl/1SOVc7) |
+Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
