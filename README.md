@@ -13,6 +13,7 @@ Name | Links | Tags
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://goo.gl/tDT2H1) | _bootstrap_ _bootstrap3_ _material-design_
 AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0) |
 Adminify | [wxs77577/adminify](https://goo.gl/mA57sD) | _vuejs_ _vuetify_ _material-design_
+Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_
 BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae) |
 CoPilot | [misterGF/CoPilot](https://goo.gl/iSVGqk) |
 DashGum | [blacktie.co - Dashgum free Dashboard](http://goo.gl/k5l29O) |
@@ -28,6 +29,7 @@ Metis | [puikinsh/Bootstrap-Admin-Template](https://goo.gl/IitZsO) |
 Minimum | [akivaron/miminium](https://goo.gl/Q4nGLZ)|
 NG2-Admin Angular | [akveo/ng2-admin](https://goo.gl/m8lc3p) |
 Rdash-angular | [rdash/rdash-angular](https://goo.gl/J7G227) |
+React-admin | [marmelab/react-admin](https://github.com/marmelab/react-admin) |
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://goo.gl/1SOVc7) |
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
