@@ -1,0 +1,26 @@
+
+spring:
+  profiles: dev,default
+  rabbitmq-config:
+    queues:
+      queue-consumer: queue.consumer
+      queue-producer: queue.producer
+  rabbitmq:
+    requested-heartbeat: 30s
+    host: 172.16.240.59
+    username: guest
+    password: guest
+    port: 5672
+    listener:
+      concurrency: 5
+      max-concurrency: 5
+    addresses:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: user
+    password: teste
+    url: jdbc:mysql://localhost:3306/PROCESSOS?useSSL=false
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: false
