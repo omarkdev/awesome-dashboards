@@ -22,6 +22,7 @@ Director Admin | [Web-Apps - Director Admin Free](http://goo.gl/9axGkI) |
 Flat Admin | [tui2tone/flat-admin-bootstrap-templates](https://goo.gl/b758bi) |
 Freeboard | [freeboard/freeboard](https://goo.gl/HRMKdh) |
 Gentelella | [puikinsh/gentelella](https://goo.gl/NSAZwH) |
+Haskell-Concur | [ajnsit/concur](https://github.com/ajnsit/concur) |
 Hierapolis | [lab2023/hierapolis](https://goo.gl/THaAQ5) |
 Light Bootstrap Dashboard |[Light Bootstrap Dashboard](http://goo.gl/JGU86v) |
 Material Design Lite Google | [google/material-design-lite](https://goo.gl/8SX56v) |
