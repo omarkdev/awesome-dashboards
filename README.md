@@ -35,3 +35,5 @@ React-admin | [marmelab/react-admin](https://github.com/marmelab/react-admin) |
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://goo.gl/1SOVc7) |
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
+CoolAdmin Dashboard | [CoolAdmin for colorlib](https://github.com/puikinsh/CoolAdmin) | _bootstrap_
+
