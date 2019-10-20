@@ -16,6 +16,7 @@ AdminLTE | [almasaeed2010/AdminLTE](https://goo.gl/OObvA0) |
 Adminify | [wxs77577/adminify](https://goo.gl/mA57sD) | _vuejs_ _vuetify_ _material-design_
 Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_
 BlurAdmin | [akveo/blur-admin](https://goo.gl/DUzAae) |
+Concept | [puikinsh/concept](https://github.com/puikinsh/concept) | _bootstrap_
 CoPilot | [misterGF/CoPilot](https://goo.gl/iSVGqk) |
 DashGum | [blacktie.co - Dashgum free Dashboard](http://goo.gl/k5l29O) |
 Director Admin | [Web-Apps - Director Admin Free](http://goo.gl/9axGkI) |
@@ -36,4 +37,3 @@ Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https:/
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://goo.gl/Fbyjs6) | _vuejs_
 CoolAdmin Dashboard | [CoolAdmin for colorlib](https://github.com/puikinsh/CoolAdmin) | _bootstrap_
-
