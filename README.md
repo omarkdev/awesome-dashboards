@@ -37,3 +37,4 @@ React-admin | [marmelab/react-admin](https://github.com/marmelab/react-admin) |
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) |
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard) | _vuejs_
+Vue Element Admin | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | _vuejs_
