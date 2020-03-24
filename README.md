@@ -11,6 +11,7 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 Name | Links | Tags
 ------------ | ------- | -------
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://github.com/gurayyarar/AdminBSBMaterialDesign/) | _bootstrap_ _bootstrap3_ _material-design_ 
+AdminKit | [adminkit/adminkit](https://github.com/adminkit/adminkit) | _bootstrap_ _bootstrap4_ _ui-kit_
 Adminator | [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) | _boostrap_ _jquery_ _Sass_
 AdminLTE | [almasaeed2010/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) |  
 Adminify | [wxs77577/adminify](https://github.com/topfullstack/adminify) | _vuejs_ _vuetify_ _material-design_
