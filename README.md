@@ -28,7 +28,7 @@ Gentelella | [puikinsh/gentelella](https://github.com/ColorlibHQ/gentelella) |
 Haskell-Concur | [ajnsit/concur](https://github.com/ajnsit/concur) |
 Hierapolis | [lab2023/hierapolis](https://github.com/lab2023/hierapolis) |
 Light Bootstrap Dashboard |[Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) |
-Material Design Lite Google | [google/material-design-lite](https://github.com/google/material-design-lite/tree/master/templates/dashboard) |
+Material Design Lite Google | [google/material-design-lite](https://github.com/google/material-design-lite/tree/mdl-1.x/templates/dashboard) |
 Matrix Admin | [Matrix Admin - is a responsive admin template](https://www.wrappixel.com/) |
 Metis | [puikinsh/Bootstrap-Admin-Template](https://github.com/puikinsh/Bootstrap-Admin-Template) |
 Minimum | [akivaron/miminium](https://github.com/akivaron/miminium)|
