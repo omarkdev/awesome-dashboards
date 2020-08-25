@@ -10,7 +10,6 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 Name | Links | Tags
 ------------ | ------- | -------
-Volt Bootstrap 5 Dashboard | [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) | _bootstrap_ _bootstrap5_ _vabukka0hs_ _Sass_ 
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://github.com/gurayyarar/AdminBSBMaterialDesign/) | _bootstrap_ _bootstrap3_ _material-design_ 
 AdminKit | [adminkit/adminkit](https://github.com/adminkit/adminkit) | _bootstrap_ _bootstrap4_ _ui-kit_
 Adminator | [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) | _boostrap_ _jquery_ _Sass_
@@ -40,4 +39,5 @@ Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https:/
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard) | _vuejs_
 Vue Element Admin | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | _vuejs_
+Volt Bootstrap 5 Dashboard | [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) | _bootstrap_ _bootstrap5_ _Sass_
 Material Dashboard | [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) | _bootstrap_
