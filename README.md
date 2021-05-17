@@ -21,6 +21,7 @@ Concept | [puikinsh/concept](https://github.com/puikinsh/concept) | _bootstrap_
 CoolAdmin Dashboard | [CoolAdmin for colorlib](https://github.com/puikinsh/CoolAdmin) | _bootstrap_
 CoPilot | [misterGF/CoPilot](https://github.com/misterGF/CoPilot) |
 DashGum | [blacktie.co - Dashgum free Dashboard](http://blacktie.co/2014/07/dashgum-free-dashboard/) |
+Dashy | [lissy93/dashy](https://github.com/lissy93/dashy) | _vuejs_ _docker_
 Director Admin | [Web-Apps - Director Admin Free](http://ww12.web-apps.ninja/) |
 Flat Admin | [tui2tone/flat-admin-bootstrap-templates](https://github.com/tui2tone/flat-admin-bootstrap-templates) |
 Freeboard | [freeboard/freeboard](https://github.com/Freeboard/freeboard) |
