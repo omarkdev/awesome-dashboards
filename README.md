@@ -35,7 +35,6 @@ Minimum | [akivaron/miminium](https://github.com/akivaron/miminium)|
 NG2-Admin Angular | [akveo/ng2-admin](https://github.com/akveo/ngx-admin) |
 Rdash-angular | [rdash/rdash-angular](https://github.com/invertase/rdash-angular) |
 React-admin | [marmelab/react-admin](https://github.com/marmelab/react-admin) |
-Refine | [pankod/refine](https://github.com/pankod/refine) | _react_ _antd_
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) |
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard) | _vuejs_
