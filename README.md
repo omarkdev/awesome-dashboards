@@ -10,6 +10,7 @@ Inspired by [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 Name | Links | Tags
 ------------ | ------- | -------
+Volt React Dashboard | [themesberg/volt-react-dashboard](https://github.com/themesberg/volt-react-dashboard) | _react_ _bootstrap_ _bootstrap5_
 AdminBSB Material Design | [gurayyarar/AdminBSBMaterialDesign](https://github.com/gurayyarar/AdminBSBMaterialDesign/) | _bootstrap_ _bootstrap3_ _material-design_ 
 AdminKit | [adminkit/adminkit](https://github.com/adminkit/adminkit) | _bootstrap_ _bootstrap4_ _ui-kit_
 Adminator | [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) | _boostrap_ _jquery_ _Sass_
