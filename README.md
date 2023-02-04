@@ -15,6 +15,7 @@ AdminKit | [adminkit/adminkit](https://github.com/adminkit/adminkit) | _bootstra
 Adminator | [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) | _boostrap_ _jquery_ _Sass_
 AdminLTE | [almasaeed2010/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | _bootstrap4_ _js_ _SCSS_ _HTML_
 Adminify | [wxs77577/adminify](https://github.com/topfullstack/adminify) | _vuejs_ _vuetify_ _material-design_
+Angular Material Dashboard | [flatlogic/angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) | _angularjs_ _dashboard_ _material-ui_
 Basix | [jeweltheme/basix-admin](https://github.com/jeweltheme/basix-admin) | _vue.js_
 BlurAdmin | [akveo/blur-admin](https://github.com/akveo/blur-admin) | _bootstrap_ _Sass_ _AngularJS_ _Jquery_
 Concept | [puikinsh/concept](https://github.com/puikinsh/concept) | _bootstrap_
@@ -28,6 +29,7 @@ Gentelella | [puikinsh/gentelella](https://github.com/ColorlibHQ/gentelella) | _
 Haskell-Concur | [ajnsit/concur](https://github.com/ajnsit/concur) | _React_ _JavaScript_ _Web-UI-Framework_ _Haskell_ 
 Hierapolis | [lab2023/hierapolis](https://github.com/lab2023/hierapolis) | _bootstrap3_ _Sass_ _Compass_
 Light Bootstrap Dashboard |[Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap-dashboard) | _bootstrap_ _bootstrap4_ _Sass_ 
+Light Blue Dashboard |[Light Blue Dashboard](https://github.com/flatlogic/light-blue-dashboard) | _boilerplate_ _bootstrap_ _Sass_ 
 Material Design Lite Google | [google/material-design-lite](https://github.com/google/material-design-lite/tree/master/templates/dashboard) |
 Matrix Admin | [Matrix Admin - is a responsive admin template](https://www.wrappixel.com/) | _bootstrap_ _Angular_ _React_ _Vuejs_ _UI-Kits_
 Metis | [puikinsh/Bootstrap-Admin-Template](https://github.com/puikinsh/Bootstrap-Admin-Template) | _bootstrap_ _Jquery_ _LESS_
@@ -35,6 +37,7 @@ Minimum | [akivaron/miminium](https://github.com/akivaron/miminium)| _bootstrap_
 NG2-Admin Angular | [akveo/ng2-admin](https://github.com/akveo/ngx-admin) | _bootstrap_ _bootstrap4_ _SCSS_ _Typescript_  _Angular9_ _Neular_ _eva-design-system_
 Rdash-angular | [rdash/rdash-angular](https://github.com/invertase/rdash-angular) | _Angularjs_ _ui-bootstrap_ _ui-router_ _ngCookies_
 React-admin | [marmelab/react-admin](https://github.com/marmelab/react-admin) | _ES6_ _React_ _material-design_ _redux_
+Sing App Lite | [flatlogic/sing-app](https://github.com/flatlogic/sing-app) | _boilerplate_ _bootstrap_ _SAAS_ _CSS_ 
 Startbootstrap-sb-admin-2 | [blackrockDigital/startbootstrap-sb-admin-2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) | _bootstrap_ _bootstrap3_ _SCSS_ _CSS_ 
 Tabler | [tabler/tabler](https://github.com/tabler/tabler) | _bootstrap_ _bootstrap4_ _ui-kit_
 Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard) | _vuejs_
