@@ -23,6 +23,7 @@ CoPilot | [misterGF/CoPilot](https://github.com/misterGF/CoPilot) | _Bootstrap3_
 DashGum | [blacktie.co - Dashgum free Dashboard](http://blacktie.co/2014/07/dashgum-free-dashboard/) |
 Director Admin | [Web-Apps - Director Admin Free](http://ww12.web-apps.ninja/) |
 Flat Admin | [tui2tone/flat-admin-bootstrap-templates](https://github.com/tui2tone/flat-admin-bootstrap-templates) |
+Excalichart | [excalichart/excalichart](https://github.com/excalichart/excalicharts) |
 Freeboard | [freeboard/freeboard](https://github.com/Freeboard/freeboard) | _HTML_ _JSON_ 
 Gentelella | [puikinsh/gentelella](https://github.com/ColorlibHQ/gentelella) | _bootstrap_ _bootstrap4_ _Jquery_ _FontAwesome_ _Charts.js_ _Cropper_ _HTML_
 Haskell-Concur | [ajnsit/concur](https://github.com/ajnsit/concur) | _React_ _JavaScript_ _Web-UI-Framework_ _Haskell_ 
