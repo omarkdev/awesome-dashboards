@@ -42,6 +42,7 @@ Vue Paper Dashboard | [cristijora/vue-paper-dashboard](https://github.com/cristi
 Vue Element Admin | [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | _vuejs_
 Volt Bootstrap 5 Dashboard | [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) | _bootstrap_ _bootstrap5_ _Sass_
 Material Dashboard | [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) | _bootstrap_
+Quota Dashboard | [ryan-knowone/quota-dashboard](https://github.com/ryan-knowone/quota-dashboard) [Demo](https://ryan-knowone.github.io/quota-dashboard/?mock=1) | _static_ _privacy_ _ai_ _dashboard_
 
 KubeStellar Console | [kubestellar/console](https://github.com/kubestellar/console) | _kubernetes_ _multi-cluster_ _ai_ _cncf_ _observability_
 - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
